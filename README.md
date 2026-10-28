@@ -15,7 +15,9 @@ Estudante de Engenharia de Software na Unicid e técnico em Desenvolvimento de S
 <details>
 <summary>Clique para ver meus projetos</summary>
 
-- **ERP de serralheria:** modelagem de banco de dados (DER) de uma serralheria real, desenvolvida em grupo na faculdade.
+[- **ERP de serralheria:** modelagem de banco de dados (DER) de uma serralheria real, desenvolvida em grupo na faculdade.]
+
+[ **Site do time de Varzea Mulekes Ousados **] (https://github.com/murilossantos/Ousados_futsal.git) 
 
 </details>
 
