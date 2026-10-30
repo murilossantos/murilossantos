@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas" alt="Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Murilo+Souza;Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas" alt="Murilo Souza, estudante de Engenharia de Software e técnico em Desenvolvimento de Sistemas">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Em+busca+de+oportunidade+em+tecnologia" alt="Texto animado">
-</p>
-
-Estudante de Engenharia de Software na Unicid e técnico em Desenvolvimento de Sistemas, em São Paulo. Busco uma oportunidade presencial ou híbrida na área de tecnologia.
 
 ## Tecnologias
 
