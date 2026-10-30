@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&repeat=true&width=600&lines=Estudante+de+Engenharia+de+Software;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas" alt="Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas">
 </p>
 
-Estudante de Engenharia de Software na Unicid e técnico em Desenvolvimento de Sistemas, em São Paulo. Busco uma oportunidade presencial ou híbrida na área de tecnologia.
 
 ## Tecnologias
 
@@ -20,7 +19,8 @@ Estudante de Engenharia de Software na Unicid e técnico em Desenvolvimento de S
 <summary>Clique para ver meus projetos</summary>
 
 - **ERP de serralheria:** modelagem de banco de dados (DER) de uma serralheria real, desenvolvida em grupo na faculdade.
-
+  
+Site do time de Varzea Mulekes Ousados (https://github.com/murilossantos/Ousados_futsal.git) 
 </details>
 
 ## Contato
