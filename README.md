@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Software na Unicid e técnico em Desenvolvimento de Sistemas, em São Paulo. Busco uma oportunidade presencial ou híbrida na área de tecnologia.
 
-<p align="center"><img src="luta.svg" width="100%" alt="Animação de luta e tecnologias: HTML, CSS, JavaScript, Python e Java"></p>
+<p align="center"><img src="https://github.com/murilossantos/raw/main/luta.svg" width="100%" alt="Animação de luta e tecnologias"></p>
 
 ## Projetos
 
