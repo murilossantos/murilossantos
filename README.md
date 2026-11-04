@@ -10,7 +10,7 @@
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" alt="HTML, CSS, JavaScript, Python, Java e Power by">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" alt="HTML, CSS, JavaScript, Python, Java e PowerBy">
 </p>
 
 ## Projetos
